@@ -1,3 +1,3 @@
 # pizza-machine
-Order Pizza C++ Project
-Simple Student Project
+Order Pizza C++ Student Project
+
