@@ -1,3 +1,2 @@
-# pizza-machine
-Order Pizza C++ Student Project
+# Ordering Machine First Year Student Project
 
